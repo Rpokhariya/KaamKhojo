@@ -1,12 +1,70 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛠️ KaamKhojo — Job Connect Portal
 
-Currently, two official plugins are available:
+**KaamKhojo** is a simplified, bilingual job portal designed for quick and accessible job connections between employers and job seekers. It features mobile-first design, OTP login, location-based job targeting, and dashboard-based job management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend (Vercel)**: [https://kaamkhojo.vercel.app](https://kaamkhojo.vercel.app)
+
+---
+
+## 🧰 Tech Stack
+
+| Layer     | Tech Used                          |
+|-----------|------------------------------------|
+| Frontend  | React + Vite + TailwindCSS         |
+| Hosting   | Netlify (frontend),                 |
+
+---
+
+## ✨ Features
+
+- 🔁 OTP-based login for both employers and job seekers
+- 🌐 Bilingual support: English and Hindi
+- 🧑‍💼 Employer Dashboard with job posting modal
+- 🧑‍🔧 Job Seeker Dashboard with location preference & SMS alerts
+- 📱 Mobile-responsive UI
+
+---
+
+## 🗂 Project Structure
+
+```
+KaamKhojo/
+├── frontend/       # React app with multilingual UI
+└── README.md
+```
+
+---
+
+## 🛠️ Setup Instructions
+
+### 📦 1. Clone the repo
+
+```bash
+git clone https://github.com/Rpokhariya/KaamKhojo.git
+cd KaamKhojo
+```
+
+---
+
+### 💻 2. Frontend (React + Vite)
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## 🧑‍💻 Author
+
+Built with ❤️ by [Reena Pokhariya](https://github.com/Rpokhariya)
+
+---
+
+## 🪄 License
+
+Free to use under MIT License — feel free to use, share, or adapt this project with credit to the creator.
