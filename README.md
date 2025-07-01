@@ -16,7 +16,7 @@
 | Layer     | Tech Used                          |
 |-----------|------------------------------------|
 | Frontend  | React + Vite + TailwindCSS         |
-| Hosting   | Netlify (frontend),                 |
+| Hosting   | Netlify (frontend)                 |
 
 ---
 
@@ -67,4 +67,4 @@ Built with ❤️ by [Reena Pokhariya](https://github.com/Rpokhariya)
 
 ## 🪄 License
 
-Free to use under MIT License — feel free to use, share, or adapt this project with credit to the creator.
+Feel free to use, share, or adapt this project with credit to the creator.
