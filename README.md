@@ -1,17 +1,17 @@
 
-# 🛠️ KaamKhojo — Job Connect Portal
+## 🛠️ KaamKhojo — Job Connect Portal
 
 **KaamKhojo** is a simplified, bilingual job portal designed for quick and accessible job connections between employers and job seekers. It features mobile-first design, OTP login, location-based job targeting, and dashboard-based job management.
 
 ---
 
-## 🚀 Live Demo
+### 🚀 Live Demo
 
-- **Frontend (Vercel)**: [https://kaamkhojo.vercel.app](https://kaamkhojo.vercel.app)
+- **Frontend (Vercel)**: [https://kaamkhojo.netlify.app/](https://kaamkhojo.netlify.app/)
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 | Layer     | Tech Used                          |
 |-----------|------------------------------------|
@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - 🔁 OTP-based login for both employers and job seekers
 - 🌐 Bilingual support: English and Hindi
@@ -30,7 +30,7 @@
 
 ---
 
-## 🗂 Project Structure
+### 🗂 Project Structure
 
 ```
 KaamKhojo/
